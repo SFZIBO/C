@@ -1,0 +1,215 @@
+1,Deterjen,5000,20
+2,Pasta Gigi,10000,30
+3,Shampoo,15000,25
+4,Handuk,25000,15
+5,Sikat Gigi,7000,60
+6,Sabun Cuci Piring,12000,40
+7,Deterjen,18000,35
+8,Pel Lantai,30000,20
+9,Sapu,20000,10
+10,Ember,50000,5
+11,Minyak Goreng,15000,100
+12,Beras 5kg,60000,80
+13,Gula Pasir 1kg,14000,90
+14,Garam 500g,3000,150
+15,Tepung Terigu 1kg,12000,70
+16,Telur Ayam 1kg,25000,50
+17,Susu UHT 1L,15000,40
+18,Mie Instan,2500,200
+19,Teh Celup,20000,60
+20,Kopi Sachet,1500,300
+21,Kecap Manis,12000,80
+22,Saus Sambal,10000,70
+23,Saus Tomat,10000,60
+24,Mayonnaise,25000,30
+25,Roti Tawar,20000,50
+26,Roti Gandum,22000,40
+27,Kerupuk Udang,18000,80
+28,Kacang Tanah 1kg,25000,30
+29,Kacang Hijau 1kg,24000,20
+30,Cokelat Batangan,5000,100
+31,Permen,1000,500
+32,Biskuit Kaleng,40000,25
+33,Susu Bubuk,60000,35
+34,Minyak Kayu Putih,25000,50
+35,Balsem,10000,70
+36,Pengharum Ruangan,20000,40
+37,Pelembut Pakaian,15000,60
+38,Pembersih Toilet,18000,30
+39,Semir Sepatu,12000,20
+40,Baterai AA,10000,100
+41,Baterai AAA,12000,80
+42,Lampu Bohlam,15000,50
+43,Stop Kontak,30000,20
+44,Kabel Listrik,20000,25
+45,Obeng,10000,15
+46,Palu,25000,10
+47,Masker Medis,2000,500
+48,Sarung Tangan Karet,5000,150
+49,Hand Sanitizer,15000,200
+50,Tisu Gulung,3000,300
+51,Tisu Basah,5000,200
+52,Kipas Angin,200000,10
+53,Dispenser Air,300000,8
+54,Kompor Gas,400000,5
+55,Wajan,150000,15
+56,Panci,200000,10
+57,Sendok,2000,300
+58,Garpu,2000,300
+59,Piring,10000,200
+60,Gelas,5000,250
+61,Jam Dinding,50000,10
+62,Karpet,150000,5
+63,Tikar,50000,8
+64,Bantal,40000,20
+65,Guling,45000,15
+66,Sprei,100000,10
+67,Selimut,120000,5
+68,Tas Sekolah,80000,15
+69,Buku Tulis,5000,200
+70,Pena,3000,500
+71,Pensil,2000,600
+72,Spidol,10000,150
+73,Highlighter,15000,80
+74,Catatan Kecil,7000,300
+75,Stiker,500,500
+76,Album Foto,25000,10
+77,Rak Buku,200000,5
+78,Kursi Lipat,150000,10
+79,Meja Belajar,300000,5
+80,Lemari Pakaian,1000000,3
+81,Sepatu Olahraga,350000,10
+82,Sepatu Formal,400000,8
+83,Sandal,50000,50
+84,Kaos Kaki,20000,100
+85,Topi,30000,30
+86,Syal,40000,15
+87,Jakarta Hoodie,250000,10
+88,Kaos Oblong,50000,40
+89,Celana Pendek,60000,30
+90,Celana Panjang,100000,25
+91,Rok,90000,20
+92,Dasi,30000,15
+93,Jas Formal,500000,5
+94,Kemeja,150000,25
+95,Kotak Pensil,25000,50
+96,Map File,10000,200
+97,Amplop,500,500
+98,Kertas HVS A4,50000,30
+99,Buku Agenda,70000,20
+100,Penggaris,5000,300
+101,Penghapus,2000,400
+102,Steples,25000,30
+103,Lem Kertas,7000,200
+104,Pensil Warna,30000,20
+105,Crayon,40000,15
+106,Spidol Permanent,15000,80
+107,Board Marker,10000,100
+108,Whiteboard,250000,5
+109,Printer,2000000,2
+110,Scanner,3000000,1
+111,Kamera DSLR,7000000,3
+112,Tripod Kamera,150000,10
+113,Flash Kamera,200000,5
+114,Memory Card 64GB,80000,50
+115,Hard Drive Eksternal 1TB,1000000,20
+116,SSD Eksternal 500GB,1500000,15
+117,Laptop Gaming,20000000,2
+118,Mouse Wireless,200000,30
+119,Keyboard Mechanical,500000,25
+120,Headset Gaming,600000,15
+121,Monitor 27 Inch,3000000,10
+122,Tablet Android,4000000,5
+123,Smartphone 5G,8000000,8
+124,Smartwatch,2000000,10
+125,Powerbank 20000mAh,300000,20
+126,Charger Fast Charging,150000,50
+127,Speaker Bluetooth,700000,15
+128,Drone Kamera,10000000,3
+129,Smart TV 50 Inch,6000000,4
+130,Set Top Box,500000,20
+131,Antena TV,150000,30
+132,AC Split 1PK,4000000,8
+133,Kulkas 2 Pintu,6000000,5
+134,Mesin Cuci,5000000,7
+135,Pemanas Air Listrik,3000000,4
+136,Pemanggang Roti,700000,10
+137,Blender,500000,20
+138,Juicer,1000000,15
+139,Kompor Induksi,2500000,6
+140,Wajan Anti Lengket,300000,25
+141,Panci Presto,800000,10
+142,Set Pisau Dapur,400000,15
+143,Timbangan Digital Dapur,250000,20
+144,Teko Elektrik,300000,30
+145,Set Toples Makanan,200000,50
+146,Kotak Bekal,150000,40
+147,Botol Minum,50000,80
+148,Vacuum Flask,250000,25
+149,Dispenser Elektrik,350000,15
+150,Alat Pembersih Debu,200000,20
+151,Sikat WC,30000,50
+152,Keset Karet,25000,40
+153,Penyedot Debu,2500000,5
+154,Kain Pel,20000,60
+155,Pembersih Kaca,50000,40
+156,Kantong Sampah,2000,300
+157,Sekop,50000,15
+158,Sapu Ijuk,25000,20
+159,Sapu Lidi,15000,30
+160,Kemoceng,20000,50
+161,Alat Peniris Minyak,30000,25
+162,Keranjang Sampah,50000,30
+163,Penyaring Teh,10000,60
+164,Pisau Roti,50000,20
+165,Timbangan Badan Digital,350000,10
+166,Alat Pijat Elektrik,500000,5
+167,Matras Yoga,250000,10
+168,Alat Fitness Multiguna,10000000,2
+169,Sepeda Statis,5000000,3
+170,Barbel 10kg,500000,8
+171,Bola Gym,150000,20
+172,Jaket Hujan,150000,25
+173,Ponco,100000,40
+174,Lampu LED Emergency,100000,30
+175,Senter LED,50000,50
+176,Power Inverter,700000,10
+177,Panel Surya 100W,2500000,2
+178,Generator Listrik 1000W,3000000,3
+179,Battery Backup UPS,2500000,5
+180,Stabilizer Listrik,2000000,4
+181,Peredam Suara Ruangan,1000000,6
+182,Alat Pemadam Api,500000,10
+183,Masker Gas,200000,30
+184,Sarung Tangan Safety,50000,50
+185,Kacamata Safety,30000,40
+186,Helm Proyek,100000,20
+187,Ransel Hiking,800000,10
+188,Sleeping Bag,300000,15
+189,Tenda Camping 4 Orang,1500000,5
+190,Kompor Camping,500000,10
+191,Matras Camping,200000,20
+192,Senter Kepala,75000,50
+193,Walkie Talkie,2000000,3
+194,Pisau Lipat,250000,20
+195,Parang,300000,10
+196,Botol Minum Hiking,100000,30
+197,Tas Pinggang,150000,50
+198,Kompas,50000,40
+199,Peta Topografi,150000,10
+200,First Aid Kit,250000,15
+201,Lampu Gantung,50000,30
+202,Jam Tangan Analog,300000,20
+203,Kotak Kacamata,15000,50
+204,Penggulung Kabel,100000,20
+205,Kabel Ekstensi 10m,150000,15
+206,Pelembap Kulit,80000,40
+207,Sabun Cuci Muka,50000,60
+208,Sisir Rambut,20000,80
+209,Jepit Rambut,5000,100
+210,Alat Pencukur Jenggot,200000,20
+211,Hair Dryer,500000,10
+212,Cat Rambut,100000,30
+213,Gunting Rambut,150000,15
+214,Cermin Dinding,200000,10
+215,Cermin Lipat,50000,40
